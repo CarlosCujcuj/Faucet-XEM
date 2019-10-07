@@ -1,5 +1,3 @@
-# Faucet-XEM
-XEM-faucet Testnet
 # XEM-Faucet
 ### Made for Blockchain Course
 The purpose of this project is to show the workflow of a faucet focused on NEM and the usability of they SDK to build these kind of projects.  
