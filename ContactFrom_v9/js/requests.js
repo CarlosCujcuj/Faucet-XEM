@@ -24,6 +24,12 @@ function reqs(){
             document.getElementById('mess').innerHTML = 'message : ' + response.data.error;
             document.getElementById('hash').innerHTML = 'transactionHash : ' + response.data.message;
 
+        }else if(codigo == -1 ){
+            document.getElementById("respuesta").style.backgroundColor = "#bee5fa";
+            document.getElementById('cod').innerHTML = 'code : ' + codigo;
+            document.getElementById('mess').innerHTML = 'message : ' + response.message;
+            document.getElementById('hash').innerHTML = "";
+
         }else{
             document.getElementById("respuesta").style.backgroundColor = "#ff8f8f";
             document.getElementById('cod').innerHTML = 'code : ' + codigo;
