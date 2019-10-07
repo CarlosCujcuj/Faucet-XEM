@@ -4,6 +4,7 @@ XEM-faucet Testnet
 ### Made for Blockchain Course
 The purpose of this project is to show the workflow of a faucet focused on NEM and the usability of they SDK to build these kind of projects.  
 
+![]("files/Screen Shot 2019-10-06 at 6.29.38 PM")
 
 ## Prerequisites
 * NEM Wallet (The one who will supply XEM)
